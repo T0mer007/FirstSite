@@ -1,0 +1,53 @@
+body {
+  background-color: #CFFDE1;
+margin: 0;
+text-align: center;
+position: relative;
+font-family:  'Poppins' sans-serif;
+}
+h1{
+width:190px;
+margin:0 auto;
+font-family: Sacramento, cursive;
+
+}
+h2{
+font-family: Montserrat, sans-serif;
+}
+h3{
+font-family: Montserrat, sans-serif;
+}
+
+
+.top{
+  padding-top: 40px;
+position: relative;
+background-color: #CFFDE1;
+
+
+}
+.middle{
+background-color: #CFFDE1;
+}
+.bottom{
+background-color: #CFFDE1;
+}
+span{
+text-decoration: underline;
+}
+.top-cloud{
+  position: relative;
+width:  130px;
+}
+.tomer{
+  width:100px;
+}
+
+.mont{
+  position: relative;
+width: 500px;
+
+}
+.skills{
+
+}
